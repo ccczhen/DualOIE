@@ -6,8 +6,11 @@ Welcome to the repository of Exploiting Duality in Open Information Extraction w
 
 ## ChatGPT prompts
 The prompts we designed to instruct ChatGPT to perform the OpenIE task.
-![avatar](/figs/gpt_prompt3.jpg)
+<!-- ![avatar](/figs/gpt_prompt3.jpg) -->
+<img src="figs/gpt_prompt3.jpg" width="80%" height="auto">
+
 
 ## Iterative Annotation Framework.
 We proposed an iterative annotation framework to reduce the annotation difficulty, simplifying the ''manual inference'' to ''model prediction along with by manual discrimination''.
-![avatar](/figs/algorithm.jpg)
+<!-- ![avatar](/figs/algorithm.jpg) -->
+<img src="figs/algorithm.jpg" width="80%" height="auto">
